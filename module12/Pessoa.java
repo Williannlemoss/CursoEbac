@@ -1,4 +1,4 @@
-package Module11;
+package module12;
 
 public class Pessoa implements Comparable<Pessoa> {
     public String nome;
