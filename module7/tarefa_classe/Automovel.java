@@ -1,3 +1,5 @@
+package module7.tarefa_classe;
+
 /**
  * @author willian.lemos
  *
@@ -11,7 +13,7 @@ public class Automovel {
     private int macha;
     private int velocidade;
 
-    public Carro(int qtdRodas, String marca, String modelo) {
+    public Automovel(int qtdRodas, String marca, String modelo) {
         this.qtdRodas = qtdRodas;
         this.marca = marca;
         this.modelo = modelo;
